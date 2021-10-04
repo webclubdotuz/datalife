@@ -91,11 +91,11 @@
                 <div class="row">
 
                     <div class="col-lg-3 col-md-6 footer-contact">
-                        <h3>Mentor</h3>
+                        <h3>DataLife.UZ</h3>
                         <p>
-                            A108 Adam Street <br> New York, NY 535022<br> United States <br><br>
-                            <strong>Phone:</strong> +1 5589 55488 55<br>
-                            <strong>Email:</strong> info@example.com<br>
+                            <strong>Mázil:</strong>Qaraqalpaqstan, Nókis, Allayar Dosnazarov, 26/43 úy<br>
+                            <strong>Telefon:</strong>+99899 956 04 27<br>
+                            <strong>Email:</strong>sh.jaks@mail.ru<br>
                         </p>
                     </div>
 
@@ -137,7 +137,7 @@
 
             <div class="me-md-auto text-center text-md-start">
                 <div class="copyright">
-                    &copy; Copyright <strong><span>Mentor</span></strong>. All Rights Reserved
+                    &copy; Copyright <strong><span>Datalife.UZ</span></strong>. All Rights Reserved
                 </div>
                 <div class="credits">
                     <!-- All the links in the footer should remain intact. -->
