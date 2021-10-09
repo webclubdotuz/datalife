@@ -232,7 +232,7 @@
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
-                        <img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
+                        <img src="mentors/mambo.jpg" class="img-fluid" alt="">
                         <div class="member-content">
                             <h4>Nókisbaev Mambetáli</h4>
                             <span>Web, Full-stack</span>
